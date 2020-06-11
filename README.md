@@ -1,3 +1,3 @@
 # Bookshelf
-//![GitHub Logo](/sample/1.png)
+![GitHub Logo](/sample/1.png)
 
